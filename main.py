@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyApJQKjKwiTe1eVW47FIEmNjAaoC7CqBi4")
+client = genai.Client(api_key="zz")
 
 while True:
     user_input = input("Ask me anything: ")
